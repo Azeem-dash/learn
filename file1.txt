@@ -2,3 +2,5 @@ const pi = 3.14;
 let r = 3;
 let sum = (pi * r) ^ 2;
 console.log(sum);
+let Azeem;
+Azeem = 0;

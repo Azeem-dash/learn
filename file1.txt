@@ -1,6 +1,6 @@
 const pi = 3.14;
 let r = 3;
-let sum = (pi * r) ^ 2;
+let sum = pi * r * r;
 console.log(sum);
 //----------------------//
 let a = 10;

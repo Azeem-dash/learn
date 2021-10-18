@@ -2,5 +2,10 @@ const pi = 3.14;
 let r = 3;
 let sum = (pi * r) ^ 2;
 console.log(sum);
-let Azeem;
-Azeem = 0;
+//----------------------//
+let a = 10;
+let b = 20;
+
+///sawaping the value
+a = a + 10; //a=20
+b = a - 10; //b=10

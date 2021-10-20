@@ -12,3 +12,6 @@
 4: what is your name?
 5: Are you student?
 6: where do you live
+
+7:
+8:

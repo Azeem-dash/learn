@@ -5,3 +5,10 @@
 5: I am a student
 6: I live in pakistan
 7: I am Softwere Delveloper
+-------------------------
+1: what is your full name?
+2: Are you student of UMT?
+3: where do you live?
+4: what is your name?
+5: Are you student?
+6: where do you live

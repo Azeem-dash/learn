@@ -1,6 +1,7 @@
 1: My Name is Azeem Shafeeq
 2: I am a student of UMT
 3: I live in Lahore
-1: My Name is Azeem
-2: I am a student
-3: I live in pakistan
+4: My Name is Azeem
+5: I am a student
+6: I live in pakistan
+7: I am Softwere Delveloper

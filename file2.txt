@@ -1,2 +1,1 @@
-new file added
-another line added
+git push fast-forward
